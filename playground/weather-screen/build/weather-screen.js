@@ -1,5 +1,5 @@
 (function(){
-  var heweather_key = '980756f87f1c4abda8f03cd3ed84b342';
+  var heweather_key = 'f1002367bc194504b17c0a94d91dcd7b';
   var screens,weather_code;
   var topo,projection,path,svg,g,texture,graticule,zoom;
   var width,height;
